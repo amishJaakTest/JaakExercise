@@ -26,3 +26,7 @@ Use the [MusicBrainz API](https://musicbrainz.org/doc/Development/JSON_Web_Servi
 * [Initial project setup guide - 1](https://codeburst.io/reactjs-components-basics-e94b29b57de)
 * [Initial project setup guide - 2](http://tszekely.github.io/react-learning-module/step-01)
 
+### Output Screenshot ###
+
+![Album display Output](https://github.com/amishJaakTest/JaakExercise/blob/master/Album%20Display.PNG)
+
