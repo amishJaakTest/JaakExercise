@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.panel{
+    text-align: left;
+}
+
+.panel h1{
+    text-align: center;
+}
+
+.row{
+    align-content: center;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.releaseRow{
+    align-content: center;
+    float: left;
+    border: 1px;
+    border-color: grey;
+    border-style: solid;
+    padding: 10px;
+    margin:20px;
+    height: 300px;
+    font-weight: normal;
+}
+.releaseRow img {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.releaseRow div {
+    padding: 10px;
+}
